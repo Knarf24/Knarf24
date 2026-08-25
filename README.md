@@ -1,17 +1,15 @@
 <table>
 <tr>
-<td width="180" valign="top">
+<td width="170" valign="top">
 
-<img src="https://github.com/Knarf24.png" width="160" height="160" alt="Frank Ncube's GitHub avatar">
+<img src="https://github.com/Knarf24.png" width="150" height="150" alt="Frank Ncube's GitHub avatar">
 
 </td>
 <td valign="top">
 
 ### Hi, I'm Frank Ncube 👋
 
-I like building software that solves real problems. I enjoy coding, working with AI, exploring cloud technologies, and turning ideas into products people can actually use.
-
-I'm currently strengthening my software engineering skills while building projects across web development, applied AI, and cloud systems.
+![Rotating introduction: I build software that solves real problems. I explore AI and intelligent systems. I build web and cloud-based products. I turn ideas into working software.](assets/typing-intro.svg)
 
 **Software Engineering · AI · Cloud · Product Development**
 
