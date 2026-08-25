@@ -24,16 +24,6 @@ I'm currently strengthening my software engineering skills while building projec
 </tr>
 </table>
 
-<div align="center">
-
-<img src="assets/github-profile-header.svg" alt="Frank Ncube — Software Engineering, AI, Cloud" width="60%">
-
-</div>
-
-## About
-
-I'm building a software engineering foundation while going deeper into applied AI, cloud systems, and product engineering. I like taking a real problem — not a hypothetical one — and turning it into software that works end to end: designed, built, tested, and shipped.
-
 ## Technical toolkit
 
 <table>
