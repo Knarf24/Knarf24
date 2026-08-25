@@ -2,7 +2,7 @@
 <tr>
 <td width="170" valign="top">
 
-<img src="https://github.com/Knarf24.png" width="150" height="150" alt="Frank Ncube's GitHub avatar">
+<img src="assets/profile/frank-ncube-profile.gif" width="150" height="150" alt="Frank Ncube's profile photo">
 
 </td>
 <td valign="top">
