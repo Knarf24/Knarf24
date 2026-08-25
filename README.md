@@ -1,13 +1,32 @@
-<div align="center">
+<table>
+<tr>
+<td width="180" valign="top">
 
-<img src="assets/github-profile-header.svg" alt="Frank Ncube — Software Engineering, AI, Cloud" width="100%">
+<img src="https://github.com/Knarf24.png" width="160" height="160" alt="Frank Ncube's GitHub avatar">
 
-Computer Information Sciences student at Livingstone College building production-ready software for real users.
+</td>
+<td valign="top">
+
+### Hi, I'm Frank Ncube 👋
+
+I like building software that solves real problems. I enjoy coding, working with AI, exploring cloud technologies, and turning ideas into products people can actually use.
+
+I'm currently strengthening my software engineering skills while building projects across web development, applied AI, and cloud systems.
+
+**Software Engineering · AI · Cloud · Product Development**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=74F79A)](https://frank-ncube-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=74F79A)](https://www.linkedin.com/in/frank-ncube-417a52338)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=74F79A)](https://github.com/Knarf24)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge)](mailto:FNcube83@students.livingstone.edu)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="assets/github-profile-header.svg" alt="Frank Ncube — Software Engineering, AI, Cloud" width="60%">
 
 </div>
 
