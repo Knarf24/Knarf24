@@ -1,0 +1,42 @@
+<svg width="584" height="42" viewBox="0 0 584 42" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Frank Ncube developer introduction</title>
+  <desc id="desc">An animated typewriter line that cycles through: "I build software that solves real problems.", "I explore AI and intelligent systems.", "I build web and cloud-based products.", and "I turn ideas into working software." Static fallback text: I build software that solves real problems.</desc>
+  <defs>
+    <clipPath id="clip0">
+      <rect x="14" y="0" width="550" height="42">
+        <animate attributeName="width" dur="22s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.113636;0.204545;0.25;1" values="0;550;550;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="14" y="0" width="0" height="42">
+        <animate attributeName="width" dur="22s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.25;0.363636;0.454545;0.5;1" values="0;0;475;475;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="14" y="0" width="0" height="42">
+        <animate attributeName="width" dur="22s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.5;0.613636;0.704545;0.75;1" values="0;0;475;475;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="14" y="0" width="0" height="42">
+        <animate attributeName="width" dur="22s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.75;0.863636;0.954545;1" values="0;0;450;450;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)">
+    <text x="14" y="27" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="20" fill="#74F79A">I build software that solves real problems.</text>
+  </g>
+  <g clip-path="url(#clip1)">
+    <text x="14" y="27" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="20" fill="#74F79A">I explore AI and intelligent systems.</text>
+  </g>
+  <g clip-path="url(#clip2)">
+    <text x="14" y="27" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="20" fill="#74F79A">I build web and cloud-based products.</text>
+  </g>
+  <g clip-path="url(#clip3)">
+    <text x="14" y="27" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="20" fill="#74F79A">I turn ideas into working software.</text>
+  </g>
+  <rect x="564" width="3" height="24" y="7" fill="#D4AF37">
+    <animate attributeName="x" dur="22s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.113636;0.204545;0.25;0.363636;0.454545;0.5;0.613636;0.704545;0.75;0.863636;0.954545;1" values="14;564;564;14;489;489;14;489;489;14;464;464;14"/>
+    <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0;1"/>
+  </rect>
+</svg>

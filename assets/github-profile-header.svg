@@ -1,0 +1,35 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Frank Ncube</title>
+  <desc id="desc">Software Engineering, AI, Cloud</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="100%" stop-color="#0d130f"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.1" fill="#74F79A" fill-opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="280" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="280" fill="url(#dots)"/>
+
+  <circle cx="980" cy="140" r="100" fill="none" stroke="#74F79A" stroke-opacity="0.14" stroke-width="1.5"/>
+  <circle cx="980" cy="140" r="60" fill="none" stroke="#74F79A" stroke-opacity="0.10" stroke-width="1.5"/>
+
+  <g stroke="#D4AF37" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round">
+    <line x1="40" y1="40" x2="40" y2="76"/>
+    <line x1="40" y1="40" x2="76" y2="40"/>
+    <line x1="1160" y1="240" x2="1160" y2="204"/>
+    <line x1="1160" y1="240" x2="1124" y2="240"/>
+  </g>
+
+  <text x="40" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1" fill="#F4F7F4">Frank Ncube</text>
+
+  <rect x="42" y="172" width="70" height="4" fill="#D4AF37"/>
+
+  <text x="40" y="212" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="26">
+    <tspan fill="#74F79A">Software Engineering</tspan><tspan fill="#9DA69F"> &#183; </tspan><tspan fill="#D4AF37">AI</tspan><tspan fill="#9DA69F"> &#183; </tspan><tspan fill="#74F79A">Cloud</tspan>
+  </text>
+</svg>

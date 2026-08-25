@@ -1,0 +1,24 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Streetwise</title>
+  <desc id="desc">Context-aware local offer platform. React, TypeScript, Supabase, PostgreSQL.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="100%" stop-color="#0d130f"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.1" fill="#74F79A" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="200" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="200" fill="url(#dots)"/>
+  <rect x="0" y="0" width="6" height="200" fill="#D4AF37"/>
+
+  <circle cx="1080" cy="100" r="70" fill="none" stroke="#74F79A" stroke-opacity="0.12" stroke-width="1.5"/>
+
+  <text x="48" y="88" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F4F7F4">Streetwise</text>
+  <text x="48" y="122" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#74F79A">Context-aware local offer platform</text>
+  <text x="48" y="164" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="20" fill="#74F79A">React<tspan fill="#9DA69F"> &#183; </tspan>TypeScript<tspan fill="#9DA69F"> &#183; </tspan>Supabase<tspan fill="#9DA69F"> &#183; </tspan>PostgreSQL</text>
+</svg>
